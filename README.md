@@ -11,7 +11,7 @@ Bootstrap pour un design responsive et moderne.
 
 Backend :
 
-Spring Boot : pour la construction d’une API robuste.
+Spring  : pour la securite.
 
 JPA / Hibernate : pour la persistance des données.
 
